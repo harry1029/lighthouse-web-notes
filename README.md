@@ -1,3 +1,6 @@
 # Harry's Notes
 # This is an H1 Header
-###### This is an H6 header
+
+## Summary 
+
+This repository contains all of the notes taken by [Harry](https://github.com/harry1029) for the Lighthouse Labs Web Development Bootcamp.
